@@ -4,5 +4,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-[Проект 0. Игра: Угадай число]()
+[Проект 0. Игра: Угадай число](https://github.com/Eqtony/Sf_data_science/tree/Homework)
 
